@@ -1,2 +1,3 @@
 # advhcktool
-ADVHCKTOOL just a hacking tool
+usage g++ advhcktool.cpp -o advhcktool
+./advhcktool
