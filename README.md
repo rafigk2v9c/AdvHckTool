@@ -1,6 +1,8 @@
 # AdvHckTool
 **usage**
 
+$ git clone https://github.com/rafigk2v9c/AdvHckTool
+
 $ g++ advhcktool.cpp -o advhcktool
 
 $ ./advhcktool
