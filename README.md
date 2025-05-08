@@ -1,3 +1,6 @@
 # advhcktool
-usage g++ advhcktool.cpp -o advhcktool
-./advhcktool
+**usage**
+
+$ g++ advhcktool.cpp -o advhcktool
+
+$ ./advhcktool
