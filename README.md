@@ -3,6 +3,8 @@
 
 $ git clone https://github.com/rafigk2v9c/AdvHckTool
 
+$ cd AdvHckTool
+
 $ g++ advhcktool.cpp -o advhcktool
 
 $ ./advhcktool
