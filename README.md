@@ -119,34 +119,6 @@ g++ -std=c++17 advhcktool.cpp -o advhcktool -lstdc++fs
    - **N** - Exit program
 
 
-## Usage Examples
-
-### Example 1: Web Vulnerability Scanning
-```
-1. Select [1] Web attacks
-2. Select [2] nuclei
-3. Enter target URL: https://example.com
-4. Wait for scan results
-5. Choose Y to continue or N to exit
-```
-
-### Example 2: Network Scanning
-```
-1. Select [1] Web attacks
-2. Select [8] nmap
-3. Enter target IP: 192.168.1.1
-4. Review scan results
-5. Choose next action
-```
-
-### Example 3: WiFi Security Testing
-```
-1. Select [2] Wireless attacks
-2. Select [x] to enable monitor mode
-3. Enter interface: wlan0
-4. Return and select desired tool
-```
-
 ## Important Notes
 
 1. **Root Access**: Many tools require sudo/root privileges
