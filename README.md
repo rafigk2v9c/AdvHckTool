@@ -1,8 +1,6 @@
-# AdvHckTool
+# ADVHCKTOOL
 
 ![Screenshot_1](https://github.com/user-attachments/assets/d5bf5f4d-f2d2-416b-8b10-f48e06d6c869)
-
-# ADVHCKTOOL
 
 A comprehensive cybersecurity toolkit for penetration testing and security auditing on Linux systems.
 
