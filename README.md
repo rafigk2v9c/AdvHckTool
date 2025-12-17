@@ -6,11 +6,11 @@
 
 A comprehensive cybersecurity toolkit for penetration testing and security auditing on Linux systems.
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This tool is designed for **educational purposes** and **authorized security testing only**. Unauthorized access to computer systems is illegal. Always obtain proper authorization before testing any systems you do not own.
 
-## 📋 Features
+## Features
 
 ADVHCKTOOL provides 7 main categories of security tools:
 
@@ -67,7 +67,7 @@ ADVHCKTOOL provides 7 main categories of security tools:
 - **Browser** - Quick web access
 - **World Map** - Interactive ASCII world map
 
-## 🔧 Installation
+## Installation
 
 ### Prerequisites
 
@@ -103,7 +103,7 @@ For older systems that require explicit linking:
 g++ -std=c++17 advhcktool.cpp -o advhcktool -lstdc++fs
 ```
 
-## 🚀 Usage
+## Usage
 
 1. Run the program:
 ```bash
@@ -120,21 +120,7 @@ g++ -std=c++17 advhcktool.cpp -o advhcktool -lstdc++fs
    - **Y** - Return to main menu
    - **N** - Exit program
 
-## 📝 Requirements
-
-### System Requirements
-- **OS**: Kali Linux, Ubuntu, Debian, or similar Linux distributions
-- **Compiler**: g++ with C++17 support
-- **Architecture**: x86_64 or ARM
-
-### Dependencies
-Most tools will be automatically installed when first used. However, some tools may require:
-- Python 3.x
-- PHP
-- Ruby
-- Various Linux utilities (automatically installed)
-
-## 🎯 Recommended Environment
+## Recommended Environment
 
 This tool works best on:
 - **Kali Linux** (most tools pre-installed)
@@ -142,7 +128,7 @@ This tool works best on:
 - **BlackArch**
 - **Ubuntu/Debian** (with manual package installation)
 
-## 📖 Usage Examples
+## Usage Examples
 
 ### Example 1: Web Vulnerability Scanning
 ```
@@ -170,7 +156,7 @@ This tool works best on:
 4. Return and select desired tool
 ```
 
-## ⚡ Features
+## Key Features
 
 - **Interactive Menu System** - Easy-to-use interface
 - **Automatic Installation** - Tools are installed automatically when needed
@@ -178,7 +164,7 @@ This tool works best on:
 - **Color-Coded Interface** - Easy navigation with colored menus
 - **Modular Design** - Clean code structure with separate functions
 
-## 🛡️ Legal Notice
+## Legal Notice
 
 - This tool is for **authorized testing only**
 - Always obtain **written permission** before testing
@@ -186,61 +172,21 @@ This tool works best on:
 - The author is **not responsible** for any misuse or damage caused
 - Use responsibly and ethically
 
-## 👤 Author
-
-**Rafig Zarbaliyev**
-- Instagram: [@rafok2v9c](https://instagram.com/rafok2v9c)
-
-## 📄 License
+## License
 
 This project is provided "as-is" for educational purposes. Users are responsible for complying with all applicable laws and regulations.
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-## ⚠️ Important Notes
+## Important Notes
 
 1. **Root Access**: Many tools require sudo/root privileges
 2. **Network Interface**: Some wireless tools need specific network adapters
 3. **Legal Compliance**: Always ensure you have authorization
 4. **Backup Data**: Some operations may modify system settings
 5. **Tool Dependencies**: Internet connection required for first-time setup
-
-## 🔍 Troubleshooting
-
-### Compilation Errors
-```bash
-# If you get filesystem errors
-g++ -std=c++17 advhcktool.cpp -o advhcktool -lstdc++fs
-
-# Update g++ if needed
-sudo apt install g++-9
-g++-9 -std=c++17 advhcktool.cpp -o advhcktool
-```
-
-### Tool Not Found
-Most tools install automatically. If issues persist:
-```bash
-sudo apt update
-sudo apt install <tool-name>
-```
-
-### Permission Denied
-```bash
-chmod +x advhcktool
-sudo ./advhcktool  # If root access needed
-```
-
-## 📚 Additional Resources
-
-- [Kali Linux Tools](https://www.kali.org/tools/)
-- [OWASP Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)
-- [Penetration Testing Execution Standard](http://www.pentest-standard.org/)
-
-## 🔄 Updates
-
-Check for updates regularly as new tools and features may be added.
 
 ---
 
