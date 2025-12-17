@@ -47,7 +47,7 @@ ADVHCKTOOL provides 7 main categories of security tools:
 ### 5. OSINT Tools
 - **maltego** - Data mining tool
 - **th3inspector** - Information gathering tool
-- **instagram** - Instagram OSINT (toutatis)
+- **instagram** - Instagram OSINT
 - **osintframework** - OSINT resource collection
 - **osint canada** - Canada-specific OSINT resources
 
