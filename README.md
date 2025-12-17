@@ -118,13 +118,6 @@ g++ -std=c++17 advhcktool.cpp -o advhcktool -lstdc++fs
    - **Y** - Return to main menu
    - **N** - Exit program
 
-## Recommended Environment
-
-This tool works best on:
-- **Kali Linux** (most tools pre-installed)
-- **Parrot OS**
-- **BlackArch**
-- **Ubuntu/Debian** (with manual package installation)
 
 ## Usage Examples
 
@@ -153,30 +146,6 @@ This tool works best on:
 3. Enter interface: wlan0
 4. Return and select desired tool
 ```
-
-## Key Features
-
-- **Interactive Menu System** - Easy-to-use interface
-- **Automatic Installation** - Tools are installed automatically when needed
-- **Continue or Exit** - Choose to perform multiple operations or exit
-- **Color-Coded Interface** - Easy navigation with colored menus
-- **Modular Design** - Clean code structure with separate functions
-
-## Legal Notice
-
-- This tool is for **authorized testing only**
-- Always obtain **written permission** before testing
-- Misuse of this tool may violate local, state, or federal laws
-- The author is **not responsible** for any misuse or damage caused
-- Use responsibly and ethically
-
-## License
-
-This project is provided "as-is" for educational purposes. Users are responsible for complying with all applicable laws and regulations.
-
-## Contributing
-
-Contributions, issues, and feature requests are welcome!
 
 ## Important Notes
 
