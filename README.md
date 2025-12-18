@@ -80,8 +80,10 @@ sudo apt install g++ figlet git -y
 ### Building the Tool
 
 ```bash
-# Clone or download the repository
-cd /path/to/advhcktool
+
+git clone https://github.com/rafigk2v9c/advhcktool
+
+cd advhcktool
 
 # Compile the program
 g++ -std=c++17 advhcktool.cpp -o advhcktool
@@ -92,32 +94,6 @@ chmod +x advhcktool
 # Run the tool
 ./advhcktool
 ```
-
-### Alternative Compilation (with filesystem library)
-
-For older systems that require explicit linking:
-
-```bash
-g++ -std=c++17 advhcktool.cpp -o advhcktool -lstdc++fs
-```
-
-## Usage
-
-1. Run the program:
-```bash
-./advhcktool
-```
-
-2. Select a category from the main menu (1-7)
-
-3. Choose a specific tool from the submenu
-
-4. Follow the prompts for the selected tool
-
-5. After completion, you'll be asked:
-   - **Y** - Return to main menu
-   - **N** - Exit program
-
 
 ## Important Notes
 
