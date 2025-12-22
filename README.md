@@ -92,7 +92,7 @@ g++ -std=c++17 advhcktool.cpp -o advhcktool
 chmod +x advhcktool
 
 # Run the tool
-./advhcktool
+sudo ./advhcktool
 ```
 
 ## Important Notes
