@@ -100,8 +100,7 @@ sudo ./advhcktool
 1. **Root Access**: Many tools require sudo/root privileges
 2. **Network Interface**: Some wireless tools need specific network adapters
 3. **Legal Compliance**: Always ensure you have authorization
-4. **Backup Data**: Some operations may modify system settings
-5. **Tool Dependencies**: Internet connection required for first-time setup
+4. **Tool Dependencies**: Internet connection required for first-time setup
 
 ---
 
