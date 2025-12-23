@@ -1,3 +1,4 @@
+//This was my first project, developed using C++'s simple if-else structure before AI existed.
 #include <iostream>
 #include <string>
 #include <cstdlib>
