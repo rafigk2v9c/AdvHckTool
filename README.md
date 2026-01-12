@@ -103,5 +103,3 @@ sudo ./advhcktool
 4. **Tool Dependencies**: Internet connection required for first-time setup
 
 ---
-
-**Remember: With great power comes great responsibility. Use this tool ethically and legally.**
